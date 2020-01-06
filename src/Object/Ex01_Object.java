@@ -14,11 +14,11 @@ package Object;
  * 	- clone()	 : 객체 복제 기능.
  */
 
-public class Ex01{	// extends Object가 생략
+public class Ex01_Object{	// extends Object가 생략
 
 	public static void main(String[] args) {
 		
-		Ex01 ex = new Ex01();
+		Ex01_Object ex = new Ex01_Object();
 		
 		// 1. toString()
 		//	형식) 패키지명.클래스@16진수

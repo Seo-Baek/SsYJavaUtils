@@ -1,6 +1,6 @@
 package Object;
 
-public class Ex02 {
+public class Ex02_StudentToString {
 
 	public static void main(String[] args) {
 		

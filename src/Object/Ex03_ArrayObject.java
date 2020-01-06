@@ -1,6 +1,6 @@
 package Object;
 
-public class Ex03 {
+public class Ex03_ArrayObject {
 	
 	public static void main(String[] args) {
 		
