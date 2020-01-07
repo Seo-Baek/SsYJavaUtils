@@ -24,7 +24,7 @@ import java.util.Calendar;
  *                  바로 getInstance() 메소드를 이용하면 된다.
  */
 
-public class Ex03 {
+public class Ex03_Calendar {
 
 	public static void main(String[] args) {
 		

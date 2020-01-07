@@ -27,7 +27,7 @@ import java.util.Random;
  * 	- 활용분야 : 게임, 확률 등에서 활용.
  */
 
-public class Ex01 {
+public class Ex01_Random {
 	
 	public static void main(String[] args) {
 		

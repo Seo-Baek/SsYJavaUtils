@@ -5,7 +5,7 @@ package Util;
  * 	- 수학 관련 메소드를 제공해주는 클래스.
  */
 
-public class Ex02 {
+public class Ex02_Math {
 
 	public static void main(String[] args) {
 		

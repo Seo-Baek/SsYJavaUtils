@@ -17,7 +17,7 @@ package Inner;
  * 		   코드의 가독성이 높아진다는 장점이 있다.
  */
 
-public interface Inter {
+public interface Inter_A {
 
 	int sum(int n1, int n2);	//추상메소드
 	int minus(int n1, int n2);	//추상메소드

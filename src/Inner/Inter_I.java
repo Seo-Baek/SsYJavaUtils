@@ -9,7 +9,7 @@ package Inner;
  * 	- 형식) 참조변수 = (매개변수) -> 리턴값
  */
 
-public interface InterA {
+public interface Inter_I {
 	
 	int sum(int n1, int n2);	// 한 개의 추상메소드
 }

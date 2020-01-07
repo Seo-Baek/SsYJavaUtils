@@ -1,6 +1,6 @@
 package Inner;
 
-public class Sub implements Inter{
+public class Sub_Anonymous implements Inter_A{
 
 	@Override
 	public int sum(int n1, int n2) {

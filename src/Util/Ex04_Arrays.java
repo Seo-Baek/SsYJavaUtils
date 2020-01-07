@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 		- 배열 객체를 처리하는 클래스. 
  */
 
-public class Ex04 {
+public class Ex04_Arrays {
 
 	public static void main(String[] args) {
 		

@@ -4,7 +4,7 @@ public class Ex02_LambdaMain {
 
 	public static void main(String[] args) {
 		
-		InterA in = new InterA() {
+		Inter_I in = new Inter_I() {
 			
 			@Override
 			public int sum(int n1, int n2) {
@@ -16,7 +16,7 @@ public class Ex02_LambdaMain {
 		System.out.println();
 		
 		// 람다식 적용
-		InterA in2 = (n1 , n2) -> n1 + n2;
+		Inter_I in2 = (n1 , n2) -> n1 + n2;
 		System.out.println("lambda sum ==> " + in2.sum(200, 142));
 		
 		
